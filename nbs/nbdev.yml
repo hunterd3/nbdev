@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://hunterd3.github.io/nbdev"
+  description: "any"
+  repo-branch: main
+  repo-url: "https://github.com/hunterd3/nbdev"
